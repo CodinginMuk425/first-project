@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+.topics {
+    color: blue;
+    font-style: italic;
+}
+body {
+background-color: salmon;
+}
+.subject {
+    font-weight: bold;
+    font-style: italic;
+}
+img {
+    float: left;
+    width: 300px;
+    padding-right: 30px;
+}
+h2 {
+    margin-top: 50px;
+}
